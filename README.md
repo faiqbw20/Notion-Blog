@@ -18,3 +18,8 @@ sahare kemudian copy link dan paste pada
 sourcode 
 https://github.com/morethanmin/morethan-log
 by : morethanmin
+
+https://www.notion.so/kumal/0f80822f90c9466386c3434b96ac3827?v=6f2affab5d8b4db381e06a2dd578429b&pvs=4
+
+0f80822f90c9466386c3434b96ac3827
+NOTION_PAGE_ID
