@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://kumal.notion.site/0f80822f90c9466386c3434b96ac3827?v=6f2affab5d8b4db381e06a2dd578429b&pvs=4",
+  link: "https://curse-fascinator-7a2.notion.site/7504896c7aae4768b6839416bb8e04e7?v=27ff5c19bf344e5f90f6a3534ad4c578&pvs=4",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
